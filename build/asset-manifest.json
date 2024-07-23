@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.js": "/static/js/main.js",
+    "main.css": "/static/css/main.02d5f236.css",
+    "static/js/308.chunk.js": "/static/js/308.chunk.js",
+    "static/js/453.chunk.js": "/static/js/453.chunk.js",
+    "static/js/575.chunk.js": "/static/js/575.chunk.js",
+    "static/js/849.chunk.js": "/static/js/849.chunk.js",
+    "static/media/Inter-Bold.ttf": "/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
+    "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "static/media/driver.png": "/static/media/driver.1f14e84371c4f98af278.png",
+    "static/media/moneyspend.png": "/static/media/moneyspend.a7829db5559e282360e5.png",
+    "static/media/drplazanew.png": "/static/media/drplazanew.4676b1446028ae3ba8d8.png",
+    "static/media/user.png": "/static/media/user.5918ca1645650e68f99d.png",
+    "static/media/hcustomer.png": "/static/media/hcustomer.6a711db2ce44230f88fc.png",
+    "static/media/subs.png": "/static/media/subs.29c4c081513972f085ed.png",
+    "static/media/Nodata.png": "/static/media/Nodata.77455109b5024ae3c0fa.png",
+    "static/media/CS-LOGO-HORIZONTAL.png": "/static/media/CS-LOGO-HORIZONTAL.c498dc11e5892b9b9de8.png",
+    "static/media/business-and-finance.png": "/static/media/business-and-finance.2a4e118dc0a26fe8b75b.png",
+    "static/media/face28.jpg": "/static/media/face28.4714347ea6c815d36fef.jpg",
+    "static/media/businessman.png": "/static/media/businessman.afb4742a57596dac81f2.png",
+    "static/media/briefcase.png": "/static/media/briefcase.0bc07533e7c95b647274.png",
+    "static/media/customer.png": "/static/media/customer.38a822d9b4a9a51ded3b.png",
+    "static/media/group.png": "/static/media/group.e5cb3c5eb890b0f37932.png",
+    "static/media/subscription.png": "/static/media/subscription.82d400128b47d7fcb1f6.png",
+    "static/media/canvas-header.png": "/static/media/canvas-header.7037da48808e2a49acab.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/index.html",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "main.js.map": "/static/js/main.js.map",
+    "main.02d5f236.css.map": "/static/css/main.02d5f236.css.map",
+    "308.chunk.js.map": "/static/js/308.chunk.js.map",
+    "453.chunk.js.map": "/static/js/453.chunk.js.map",
+    "575.chunk.js.map": "/static/js/575.chunk.js.map",
+    "849.chunk.js.map": "/static/js/849.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.js",
+    "static/css/main.02d5f236.css"
+  ]
+}
